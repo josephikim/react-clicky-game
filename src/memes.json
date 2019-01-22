@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Ancient Aliens Guy",
+    "image":
+      "./img/aliens.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bad Luck Brian",
+    "image":
+      "./img/brian.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ceiling Cat",
+    "image":
+      "./img/ceilingcat.jpg"
+  },
+    {
+    "id": 4,
+    "name": "Crying Lady",
+    "image":
+      "./img/crying.jpg"
+  },
+    {
+    "id": 5,
+    "name": "Doge",
+    "image":
+      "./img/doge.jpg"
+  },
+    {
+    "id": 6,
+    "name": "Evil Kermit",
+    "image":
+      "./img/evilkermit.jpg"
+  },
+    {
+    "id": 7,
+    "name": "Take My Money Fry",
+    "image":
+      "./img/fry.jpg"
+  },
+    {
+    "id": 8,
+    "name": "Not Sure Fry",
+    "image":
+      "./img/frynotsure.jpg"
+  },
+    {
+    "id": 9,
+    "name": "Grumpy Cat",
+    "image":
+      "./img/grumpy.jpg"
+  },
+    {
+    "id": 10,
+    "name": "Conspiracy Keanu",
+    "image":
+      "./img/keanu.jpg"
+  },
+    {
+    "id": 11,
+    "name": "Philosoraptor",
+    "image":
+      "./img/philosoraptor.jpg"
+  },
+    {
+    "id": 12,
+    "name": "Scumbag Steve",
+    "image":
+      "./img/steve.jpg"
+  },
+    {
+    "id": 13,
+    "name": "Success Kid",
+    "image":
+      "./img/successkid.jpg"
+  },
+    {
+    "id": 14,
+    "name": "Trollface",
+    "image":
+      "./img/trollface.jpg"
+  },
+    {
+    "id": 15,
+    "name": "Condescending Wonka",
+    "image":
+      "./img/willy.jpg"
+  },
+    {
+    "id": 16,
+    "name": "Yao",
+    "image":
+      "./img/yao.jpg"
+  }
+]
